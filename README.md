@@ -12,7 +12,7 @@
   <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=Qw1nt&theme=dark" />
 </p>
 
-## :hammer_and_wrench: Language Stats
+## :hammer_and_wrench: Статистика языков
 
 <p>
   
