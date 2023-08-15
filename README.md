@@ -15,7 +15,10 @@
 ## :hammer_and_wrench: Статистика языков
 
 <p>
-  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qw1nt&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
