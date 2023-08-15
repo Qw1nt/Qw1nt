@@ -46,7 +46,7 @@
 ## &#x1f4c8; GitHub Статистика
 
 <p>
-  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=Qw1nt&theme=dracula" />
+  <img  width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Qw1nt&theme=dracula" />
 </p>
 
 ## :hammer_and_wrench: Статистика языков
@@ -54,3 +54,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula)
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b&langs_count=8&layout=compact&theme=dracula)
+
+## ⚙️ Unity
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Qw1nt&repo=LeoEcsLite.SnailAnimation&theme=dracula)](https://github.com/Qw1nt/LeoEcsLite.SnailAnimation)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Qw1nt&repo=PromiseHttpClient&theme=dracula)](https://github.com/Qw1nt/PromiseHttpClient)
