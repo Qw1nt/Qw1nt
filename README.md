@@ -14,8 +14,7 @@
 
 ## :hammer_and_wrench: Статистика языков
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
 
