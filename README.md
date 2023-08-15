@@ -46,11 +46,11 @@
 ## &#x1f4c8; GitHub Статистика
 
 <p>
-  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=Qw1nt&theme=gruvbox" />
+  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=Qw1nt&theme=dracula" />
 </p>
 
 ## :hammer_and_wrench: Статистика языков
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
