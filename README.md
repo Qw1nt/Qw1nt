@@ -47,23 +47,23 @@
 ## &#x1f4c8; GitHub Stats
 
 <p>
-  <img  width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Qw1nt&theme=dracula" />
+  <img  width="480" src="https://github-readme-streak-stats-five-lemon.vercel.app?user=Qw1nt&theme=dracula&hide_border=true" />
 </p>
 
 ## :hammer_and_wrench: Language Stats
 
 <p>
   
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula" />
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b&langs_count=8&layout=compact&theme=dracula" />
+  <img height=160 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula&hide_border=true" />
+  <img height=160 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
 
 </p>
 
 ## ⚙️ Unity packages
 
 <a href="https://github.com/Qw1nt/LeoEcsLite.SnailAnimation">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qw1nt&repo=LeoEcsLite.SnailAnimation&theme=dracula" />
+    <img height=120 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/pin/?username=Qw1nt&repo=LeoEcsLite.SnailAnimation&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/Qw1nt/PromiseHttpClient">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qw1nt&repo=PromiseHttpClient&theme=dracula" />
+    <img height=120 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/pin/?username=Qw1nt&repo=PromiseHttpClient&theme=dracula&hide_border=true" />
 </a>
