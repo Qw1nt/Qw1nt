@@ -1,7 +1,8 @@
 <h1 align="center"> Hi, I'm Qw1nt! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="35px"> </h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=36&duration=3500&pause=2000&color=37A4FF&center=true&vCenter=true&multiline=true&width=500&height=110&lines=C%23+Developer;With+love+to+GameDev+%3C3" alt="Typing SVG" />
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Play&size=36&duration=2000&pause=2000&color=37A4FF&center=true&vCenter=true&multiline=true&width=500&height=140&lines=C%23+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%A1+%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%D1%8E+%D0%BA+GameDev+%3C3" alt="Typing SVG" /> -->
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=36&duration=3500&pause=2000&color=37A4FF&center=true&vCenter=true&multiline=true&width=500&height=110&lines=C%23+Developer;With+love+to+GameDev+%3C3" alt="Typing SVG" />
+
 </p>
 
 ## 🔧 Technologies & Tools
@@ -47,7 +48,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <p>
-  <img  width="480" src="https://github-readme-streak-stats-five-lemon.vercel.app?user=Qw1nt&theme=dracula&hide_border=true" />
+  <img  width="480" src="https://github-readme-streak-stats-five-lemon.vercel.app/?user=Qw1nt&theme=dracula&hide_border=true" />
 </p>
 
 ## :hammer_and_wrench: Language Stats
