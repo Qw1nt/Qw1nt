@@ -56,7 +56,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <p>
-  <img  width="480" src="https://github-readme-streak-stats-five-lemon.vercel.app/?user=Qw1nt&theme=dracula&hide_border=true" />
+  <img  width="480" src="https://github-readme-stats.vercel.app/api?user=Qw1nt&theme=dracula&hide_border=true" />
 </p>
 
 ## :hammer_and_wrench: Language Stats
