@@ -63,28 +63,28 @@
 
 <p>
   
-  <img height=160 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula&hide_border=true" />
-  <img height=160 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
+  <img height=160 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula&hide_border=true" />
+  <img height=160 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/wakatime?username=c60b4530-109f-481d-8f70-7f0418506a6b&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
 
 </p>
 
 ## <img width=26 src="https://i.redd.it/tu3gt6ysfxq71.png"/> Unity packages
 
 <a href="https://github.com/Qw1nt/unity.leoecslite.snail-animation">
-    <img height=120 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/pin/?username=Qw1nt&repo=unity.leoecslite.ease-animation&theme=dracula&hide_border=true" />
+    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.leoecslite.ease-animation&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/Qw1nt/unity.promise-http-client">
-    <img height=120 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/pin/?username=Qw1nt&repo=unity.promise-http-client&theme=dracula&hide_border=true" />
+    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.promise-http-client&theme=dracula&hide_border=true" />
 </a>
 
 ## <img width=26 src="https://img.freepik.com/iconos-gratis/microsoft_318-566086.jpg?q=10&h=200"/> ASP.NET packages
 
 <a href="https://github.com/Qw1nt/clothing-store.backend">
-    <img height=120 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/pin/?username=Qw1nt&repo=clothing-store.backend&theme=dracula&hide_border=true" />
+    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=clothing-store.backend&theme=dracula&hide_border=true" />
 </a>
 
 ## <img width=26 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558"/> Vue packages
 
 <a href="https://github.com/Qw1nt/clothing-store.frontend">
-    <img height=120 align="center" src="https://github-readme-stats-rouge-seven-36.vercel.app/api/pin/?username=Qw1nt&repo=clothing-store.frontend&theme=dracula&hide_border=true" />
+    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=clothing-store.frontend&theme=dracula&hide_border=true" />
 </a>
