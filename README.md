@@ -74,7 +74,7 @@
     <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.leoecslite.ease-animation&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/Qw1nt/unity.morpeh.ease-animation">
-    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.promise-http-client&theme=dracula&hide_border=true" />
+    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.morpeh.ease-animation&theme=dracula&hide_border=true" />
 </a>
 
 ## <img width=26 src="https://img.freepik.com/iconos-gratis/microsoft_318-566086.jpg?q=10&h=200"/> ASP.NET packages
