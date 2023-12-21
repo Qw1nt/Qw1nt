@@ -73,7 +73,7 @@
 <a href="https://github.com/Qw1nt/unity.leoecslite.snail-animation">
     <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.leoecslite.ease-animation&theme=dracula&hide_border=true" />
 </a>
-<a href="https://github.com/Qw1nt/unity.promise-http-client">
+<a href="https://github.com/Qw1nt/unity.morpeh.ease-animation">
     <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.promise-http-client&theme=dracula&hide_border=true" />
 </a>
 
