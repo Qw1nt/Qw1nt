@@ -70,8 +70,8 @@
 
 ## <img width=26 src="https://i.redd.it/tu3gt6ysfxq71.png"/> Unity packages
 
-<a href="https://github.com/Qw1nt/unity.leoecslite.snail-animation">
-    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.leoecslite.ease-animation&theme=dracula&hide_border=true" />
+<a href="https://github.com/Qw1nt/unity.morpeh.startup">
+    <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.morpeh.startup&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/Qw1nt/unity.morpeh.ease-animation">
     <img height=120 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/pin/?username=Qw1nt&repo=unity.morpeh.ease-animation&theme=dracula&hide_border=true" />
